@@ -1,0 +1,86 @@
+
+.rst{
+    position: absolute;
+    color: rgb(26, 25, 25);
+    background-color: rgb(10, 225, 214);
+    margin-left: 40%;
+    margin-top:243px;
+    font-size: 25px;
+    border: 5px solid  rgb(10, 225, 214);
+    border-radius: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    
+}
+
+h1{
+    color: aliceblue;
+    background-color:rgb(18, 26, 81);
+    text-align: center;
+    border: 6px solid black;
+    margin-top: -0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+   
+}
+.add{
+    position: absolute;
+    color: aqua;
+    background-color: rgb(24, 22, 177);
+    font-size: 30px;
+    margin-top: 120px;
+    margin-left: 45%;
+   
+}
+.add:hover{
+    color:red;
+    background-color: aqua;
+    border-radius: 5px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.calc{
+    position: relative;
+    background: linear-gradient(to right, rgb(56, 56, 129),rgb(12, 148, 32));
+    height: 1000px;
+    width: 1400px;
+    
+}
+.inner{
+    position: absolute;
+    background-image: url(./images/OIP.jfif);
+    height: 400px;
+    width: 600px;
+    margin-left: 30%;
+    margin-top: 250px;
+    border: 7px solid;
+    border-radius: 10px;
+    box-shadow:0 0 100px aqua;
+    
+}
+.inner:hover{
+    box-shadow: 0 0 100px red;
+}
+.add1{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    background-color: cornflowerblue;
+    height: 30px;
+    width: 200;
+    margin-left: 20%;
+    margin-top: 80px;
+}
+.add2{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    background-color: cornflowerblue;
+    height: 30px;
+    margin-left: 55%;
+    margin-top: 62px;
+}
+.add2:hover{
+    background-color:coral;
+}
+.add1:hover{
+    background-color:coral;
+}
